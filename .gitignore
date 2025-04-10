@@ -1,0 +1,16 @@
+# Archivos del sistema operativo macOS
+.DS_Store
+.Trashes
+
+# Archivos del sistema operativo Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Archivos de VS Code
+.vscode/
+
+# Archivos temporales comunes en Linux (opcional, pero útil)
+*~
+*.swp
+*.swo
