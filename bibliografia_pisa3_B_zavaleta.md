@@ -1,10 +1,5 @@
 # 📚 Bibliografía
 
-# Miembros del Equipo
-- Orwin Manuel Zavaleta Villanueva
-- Roberto Gigante Rodado
-- Alejandro David Martinez Lopez
-
 ## 📖 Libros
 
 - Sachs, J. D. (2015). _The Age of Sustainable Development_. Columbia University Press.
