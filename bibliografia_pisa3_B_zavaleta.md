@@ -1,8 +1,3 @@
-# Miembros del Equipo
-- Orwin Manuel Zavaleta Villanueva
-- Roberto Gigante Rodado
-- Alejandro David Martinez Lopez
-
 # 📚 Bibliografía
 
 ## 📖 Libros
@@ -16,10 +11,6 @@
 - Unión Internacional de Telecomunicaciones. (2022). _Las TIC para un mundo sostenible_. Recuperado de [https://www.itu.int/es/sustainable-world/Pages/default.aspx](https://www.itu.int/es/sustainable-world/Pages/default.aspx)
 - Foro Económico Mundial. (2023). _El papel de la industria tecnológica en la sostenibilidad global_. Recuperado de [https://es.weforum.org/stories/2023/05/asi-sera-el-futuro-del-empleo-en-la-era-de-la-ia-la-sostenibilidad-y-la-desglobalizacion/](https://es.weforum.org/stories/2023/05/asi-sera-el-futuro-del-empleo-en-la-era-de-la-ia-la-sostenibilidad-y-la-desglobalizacion/)
 - OpenAI. (2025). _Análisis y redacción de contenido sobre sostenibilidad y ODS en el sector tecnológico_. Recuperado de [https://chat.openai.com](https://chat.openai.com)
-
-## 🖼️ Imágenes
-
-- [Pexels](https://www.pexels.com/es-ES/creative-commons-images/)
 
 ## ✍️ Autorreferencia
 
